@@ -1,1 +1,2 @@
 change 1 (from master)
+change 2
