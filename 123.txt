@@ -3,5 +3,4 @@ function sayHello() {
 }
 
 New change one
-Second change
 Third change
